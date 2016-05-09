@@ -1,0 +1,6 @@
+Django==1.9.6
+django-cors-headers==1.1.0
+django-extensions==1.6.6
+djangorestframework==3.3.3
+psycopg2==2.6.1
+six==1.10.0
